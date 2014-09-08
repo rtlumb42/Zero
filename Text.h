@@ -1,6 +1,9 @@
 #if !defined STRING_H
 #define STRING_H
-
+						
+						
+						//COMMMENT
+						
 class String
 {
    private:
